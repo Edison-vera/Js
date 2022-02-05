@@ -30,7 +30,25 @@ for (let i = 0; i < carrito.length; i++) {
 }
 // While loop
 
+// let i = 0;
 
+// while (i < 10) {
+//     if (i % 2 === 0)
+//         console.log(`Numero ${i} es par`);
+//     else {
+//         console.log(`Numero ${i} es impar`);
+//     }
+
+//     i++;
+// }
 
 
 //Do while
+
+let i = 0;
+do {
+    console.log(i);
+
+
+    i++;
+} while (i < 10);
